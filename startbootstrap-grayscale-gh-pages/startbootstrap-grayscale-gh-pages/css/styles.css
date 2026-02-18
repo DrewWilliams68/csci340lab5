@@ -108,6 +108,14 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.list{
+  color: whitesmoke;
+  text-align:left;
+}
+.story{
+  color:whitesmoke;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
